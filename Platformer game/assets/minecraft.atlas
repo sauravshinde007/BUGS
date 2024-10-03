@@ -1,0 +1,26 @@
+images {
+  image: "/assets/images/minecraft/PikPng.com_minecraft-tnt-png_1126547.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/assets/images/minecraft/PikPng.com_grass-block-png_5861478.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/assets/images/minecraft/main-qimg-11a7b2cc6dbd2768fdb4fa674f8dae43-lq.png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/assets/images/Smoke_005.jpg"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+images {
+  image: "/assets/images/pngwing.com (2).png"
+  sprite_trim_mode: SPRITE_TRIM_MODE_OFF
+}
+margin: 0
+extrude_borders: 2
+inner_padding: 0
+max_page_width: 0
+max_page_height: 0
+rename_patterns: ""
